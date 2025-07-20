@@ -1,12 +1,12 @@
-# ShellClash用于小米AX3000T路由器
+# ShellClash 用于小米 AX3000T 路由器
 
 本文据多篇来源按图索骥实现小米AX3000T的科学上网（软固化）。多有遗漏不足，敬请斧正🙏
 
-**背景：**我是一位Clash (Meta/Verge) 4 Windows/Android 使用者，刚自购路由器，期望其实现VPN，如此我可以减少在终端上开关VPN软件的操作。
+**背景：** 我是一位Clash (Meta/Verge) 4 Windows/Android 使用者，刚自购路由器，期望其实现VPN，如此我可以减少在终端上开关VPN软件的操作。
 
-**路径：**解锁SSH→连接SSH→安装和配置ShellClash
+**路径：** 解锁SSH→连接SSH→安装和配置ShellClash
 
-**关键词：**路由器，科学上网
+**关键词：** 路由器，科学上网
 
 ## **1. 解锁SSH**
 
